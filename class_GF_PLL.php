@@ -27,7 +27,7 @@ class GF_PLL {
       'customLabel',
       'value',
       'subject',
-      'consent-label'
+      'checkboxLabel'
     );
 
     $this->blacklist = array();
